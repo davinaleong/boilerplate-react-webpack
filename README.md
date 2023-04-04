@@ -1,10 +1,8 @@
-# React Webpack & Typescript Boilerplate
+# React Webpack, SCSS & Typescript Boilerplate
 
 ## About
 
-This repo is about me learning how to setup my own React & Typescript boilerplate using webpack.
-
-I'm also planning to add SASS and environment-specific configs to this boilerplate too.
+This is my webpack boilerplate for React which includes SCSS, typescript, linting and formatting.
 
 ## Stopped At
 
