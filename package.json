@@ -19,8 +19,10 @@
   "author": "Davina Leong",
   "license": "MIT",
   "dependencies": {
+    "node-sass": "^8.0.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "sass-loader": "^13.2.2"
   },
   "devDependencies": {
     "@babel/core": "^7.21.4",

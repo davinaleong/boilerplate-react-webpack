@@ -1,4 +1,4 @@
-import './styles/main.css'
+import './styles/main.scss'
 
 import HTML5_LOGO from './images/html5-png.png'
 import CSS3_LOGO from './images/css3-svg.svg'
@@ -8,7 +8,7 @@ import { CounterComponent } from './components/counter.component'
 export const App = () => {
   return (
     <>
-      <h1>Hello React Typescript Webpack Boilerplate</h1>
+      <h1>React Typescript Webpack Boilerplate</h1>
       <p>
         Environment: <strong>{process.env.NODE_ENV}</strong>
       </p>
