@@ -29,3 +29,9 @@ npm start
 ```
 npm run build
 ```
+
+4. Lint code
+
+```
+npm run lint
+```
