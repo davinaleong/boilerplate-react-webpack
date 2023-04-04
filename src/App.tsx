@@ -1,4 +1,4 @@
-import './main.css'
+import './styles/main.css'
 
 import HTML5_LOGO from './images/html5-png.png'
 import CSS3_LOGO from './images/css3-svg.svg'
