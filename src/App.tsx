@@ -6,7 +6,6 @@ import CSS3_LOGO from './images/css3-svg.svg'
 import { CounterComponent } from './components/counter.component'
 
 export const App = () => {
-    const name = "Hello"
   return (
     <>
       <h1>Hello React Typescript Webpack Boilerplate</h1>
