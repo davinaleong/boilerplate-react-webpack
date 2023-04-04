@@ -17,9 +17,10 @@ module.exports = {
       'plugin:import/warnings',
       'plugin:import/typescript',
       'plugin:jsx-a11y/recommended',
+      'prettier',
     //   'plugin:eslint-comments/recommended',
     //   'prettier/@typescript-eslint',
-    //   'plugin:prettier/recommended',
+      'plugin:prettier/recommended',
     ],
     rules: {
       'no-unused-vars': 'off',

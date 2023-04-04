@@ -35,3 +35,9 @@ npm run build
 ```
 npm run lint
 ```
+
+4. Format code
+
+```
+npm run format
+```
