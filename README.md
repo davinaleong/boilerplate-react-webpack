@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=25kFcF54GNk&list=PLC3y8-rFHvwiWPS2RO3BKotLRfgg_8
 1. Install dependencies
 
 ```
-cd learn-react-webpack && npm install
+cd boilerplate-react-webpack && npm install
 ```
 
 2. Run development server
