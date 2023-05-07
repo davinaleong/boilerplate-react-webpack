@@ -1,4 +1,5 @@
 const path = require('path')
+const Webpack = require('webpack')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
 // const CopyPlugin = require('copy-webpack-plugin')
 
@@ -37,6 +38,9 @@ module.exports = {
     filename: 'bundle.js',
   },
   plugins: [
+    new Webpack.EnvironmentPlugin({
+      NODE_ENV: 'development',
+    }),
     new HtmlWebpackPlugin({
       template: path.resolve(__dirname, '..', './src/index.html'),
     }),
